@@ -9,6 +9,7 @@ import org.apache.commons.logging.impl.SimpleLog;
  * @author Abola Lee
  *
  */
+//
 public class BasicExample {
 	// commit test
 	public static void main(String[] args) {
