@@ -41,7 +41,7 @@ public class FacebookExam {
 			String id = data.select("id").text();
 
 			// FIXIT
-			String reactions = data.select("reactions").text();;
+			String reactions = data.select("reactions total_count").text();;
 
 
 			output += id + "," + reactions + "\n";
