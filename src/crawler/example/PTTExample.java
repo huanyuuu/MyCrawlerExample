@@ -45,7 +45,7 @@ public class PTTExample {
 			    //.getFromXml(uri)
 			    
 			    // 這兒開始是 Jsoup Document 物件操作
-				.select("span:contains(甲甲)")
+				.select("span:contains(甲)")
 
 		);
 
